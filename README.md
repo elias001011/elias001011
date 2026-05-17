@@ -152,14 +152,11 @@ system:      Linux, Git, GitHub, shell
 </details>
 
 <details>
-  <summary><b>github stats & trophies</b></summary>
+  <summary><b>github trophies</b></summary>
   <br />
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elias001011&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=4" alt="GitHub trophies" />
-  <br /><br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elias001011&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias001011&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top languages" />
 </div>
 
 </details>
