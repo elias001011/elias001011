@@ -29,10 +29,10 @@ less noise, more product.
       <h3>☄️ <a href="https://github.com/elias001011/Meteor">Meteor</a></h3>
       <p>PWA de inteligência climática com previsão, alertas, mapas, temas dinâmicos e assistente com IA generativa contextual.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
-        <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF" />
-        <img src="https://img.shields.io/badge/Netlify%20Functions-111111?style=flat-square&logo=netlify&logoColor=00C7B7" />
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&amp;logo=vite&amp;logoColor=646CFF" />
+        <img src="https://img.shields.io/badge/Netlify%20Functions-111111?style=flat-square&amp;logo=netlify&amp;logoColor=00C7B7" />
       </p>
       <p><b>Highlights:</b> BFF serverless, Gemini, fallback de APIs meteorológicas, AQI, mapas e privacidade local-first.</p>
       <p><a href="https://meteor-ai.netlify.app">live</a></p>
@@ -41,10 +41,10 @@ less noise, more product.
       <h3>🎓 <a href="https://github.com/elias001011/Apice">Ápice</a></h3>
       <p>Plataforma educacional com corretor de redação, Professor IA, simulados, radar, conquistas, autenticação e histórico.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF" />
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&amp;logo=vite&amp;logoColor=646CFF" />
         <img src="https://img.shields.io/badge/AI%20Fallbacks-111111?style=flat-square" />
-        <img src="https://img.shields.io/badge/Netlify%20Blobs-111111?style=flat-square&logo=netlify&logoColor=00C7B7" />
+        <img src="https://img.shields.io/badge/Netlify%20Blobs-111111?style=flat-square&amp;logo=netlify&amp;logoColor=00C7B7" />
       </p>
       <p><b>Highlights:</b> múltiplos provedores de IA, cotas, modo convidado, correção no backend e UX de produto.</p>
       <p><a href="https://apice-ai.netlify.app">live</a></p>
@@ -55,9 +55,9 @@ less noise, more product.
       <h3>🌧️ <a href="https://github.com/elias001011/Meteor-LandingPage">Meteor Landing Page</a></h3>
       <p>Landing page cinematográfica do Meteor, com storytelling, scroll pinning, galeria e dados climáticos reais do RS.</p>
       <p>
-        <img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&logo=greensock&logoColor=88CE02" />
-        <img src="https://img.shields.io/badge/Framer%20Motion-111111?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&amp;logo=greensock&amp;logoColor=88CE02" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-111111?style=flat-square&amp;logo=framer&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&amp;logo=tailwindcss&amp;logoColor=38BDF8" />
         <img src="https://img.shields.io/badge/Open--Meteo-111111?style=flat-square" />
       </p>
       <p><b>Highlights:</b> animações de scroll, cursor customizado, chuva em canvas, lightbox e narrativa visual.</p>
@@ -67,10 +67,10 @@ less noise, more product.
       <h3>🌙 <a href="https://github.com/elias001011/SonarCloud">SonarCloud</a></h3>
       <p>Soundscape player minimalista para foco, relaxamento e sono usando faixas do SoundCloud.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
-        <img src="https://img.shields.io/badge/Capacitor-111111?style=flat-square&logo=capacitor&logoColor=119EFF" />
-        <img src="https://img.shields.io/badge/SoundCloud-111111?style=flat-square&logo=soundcloud&logoColor=FF5500" />
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Capacitor-111111?style=flat-square&amp;logo=capacitor&amp;logoColor=119EFF" />
+        <img src="https://img.shields.io/badge/SoundCloud-111111?style=flat-square&amp;logo=soundcloud&amp;logoColor=FF5500" />
       </p>
       <p><b>Highlights:</b> timer com fade out, temas, layout flexível, player persistente e suporte mobile.</p>
       <p><a href="https://sonar-cloud.netlify.app">live</a></p>
@@ -81,10 +81,10 @@ less noise, more product.
       <h3>🌦️ <a href="https://github.com/elias001011/Climova">Climova</a></h3>
       <p>Dashboard de clima com glassmorphism, recomendações tipo “Mini IA”, fundos dinâmicos e funções serverless.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6" />
+        <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" />
         <img src="https://img.shields.io/badge/OpenWeather-111111?style=flat-square" />
-        <img src="https://img.shields.io/badge/Unsplash-111111?style=flat-square&logo=unsplash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Unsplash-111111?style=flat-square&amp;logo=unsplash&amp;logoColor=white" />
       </p>
       <p><b>Highlights:</b> geocodificação, previsão de 5 dias, imagens por cidade/clima e API keys protegidas.</p>
       <p><a href="https://climova.netlify.app">live</a></p>
@@ -93,9 +93,9 @@ less noise, more product.
       <h3>🖥️ <a href="https://github.com/elias001011/elias001011.github.io">Portfolio</a></h3>
       <p>Site pessoal para mostrar projetos, screenshots, links e presença dev com uma interface mais autoral.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
-        <img src="https://img.shields.io/badge/GitHub%20Pages-111111?style=flat-square&logo=githubpages&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-111111?style=flat-square&amp;logo=githubpages&amp;logoColor=white" />
       </p>
       <p><b>Highlights:</b> Vite, React 19, TypeScript, paletas visuais e galeria de projetos.</p>
       <p><a href="https://elias001011.github.io">live</a></p>
@@ -152,12 +152,14 @@ system:      Linux, Git, GitHub, shell
 </details>
 
 <details>
-  <summary><b>github stats</b></summary>
+  <summary><b>github stats & trophies</b></summary>
   <br />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elias001011&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias001011&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elias001011&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=4" alt="GitHub trophies" />
+  <br /><br />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elias001011&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias001011&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top languages" />
 </div>
 
 </details>
@@ -167,7 +169,7 @@ system:      Linux, Git, GitHub, shell
   <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=elias001011&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=elias001011&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
 </div>
 
 </details>
