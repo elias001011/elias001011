@@ -137,7 +137,6 @@ less noise, more product.
 ![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -162,11 +161,13 @@ system:      Linux, Git, GitHub, shell
 </details>
 
 <details>
-  <summary><b>activity</b></summary>
+  <summary><b>recent github activity</b></summary>
   <br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=elias001011&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elias001011&amp;theme=tokyo-night&amp;hide_border=true&amp;custom_title=Elias%20Nunes%27%20Recent%20GitHub%20Activity" alt="Recent GitHub Activity Graph" />
 </div>
 
 </details>
