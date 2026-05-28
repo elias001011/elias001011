@@ -65,14 +65,14 @@ less noise, more product.
     </td>
     <td width="50%">
       <h3>🎵 <a href="https://github.com/elias001011/Musify-Desktop-Port">Musify Desktop Port</a></h3>
-      <p>Port desktop não oficial do Musify, com foco em manter o app upstream intacto e entregar builds instaláveis para Windows e Linux.</p>
+      <p>Port/empacotamento desktop não oficial do <a href="https://github.com/gokadzev/Musify">Musify</a>. Meu trabalho aqui é adaptar e distribuir builds para Windows e Linux; o app original é mantido pelo upstream.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
         <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
         <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" />
         <img src="https://img.shields.io/badge/Windows-111111?style=flat-square&amp;logo=windows&amp;logoColor=0078D4" />
       </p>
-      <p><b>Highlights:</b> targets desktop, media_kit, pacotes .deb/tar.gz, setup/portable Windows, updater e sync upstream via Actions.</p>
+      <p><b>Highlights:</b> contribuições ao upstream, targets desktop, media_kit, pacotes .deb/tar.gz, setup/portable Windows, updater e sync upstream via Actions.</p>
       <p><a href="https://github.com/elias001011/Musify-Desktop-Port/releases">downloads</a></p>
     </td>
   </tr>
