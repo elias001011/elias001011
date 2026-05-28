@@ -52,6 +52,32 @@ less noise, more product.
   </tr>
   <tr>
     <td width="50%">
+      <h3>🧠 <a href="https://github.com/elias001011/my-computer">My Computer</a></h3>
+      <p>Painel self-hosted para conversar com uma IA que usa tools locais, lê contexto salvo, executa terminal e integra múltiplos providers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&amp;logo=nodedotjs&amp;logoColor=5FA04E" />
+        <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" />
+        <img src="https://img.shields.io/badge/Shell-111111?style=flat-square&amp;logo=gnubash&amp;logoColor=4EAA25" />
+      </p>
+      <p><b>Highlights:</b> terminal local, web search, memória persistente, anexos, Ollama, rotação de keys e rede local com senha.</p>
+      <p><a href="https://github.com/elias001011/my-computer">repo</a></p>
+    </td>
+    <td width="50%">
+      <h3>🎵 <a href="https://github.com/elias001011/Musify-Desktop-Port">Musify Desktop Port</a></h3>
+      <p>Port desktop não oficial do Musify, com foco em manter o app upstream intacto e entregar builds instaláveis para Windows e Linux.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/Windows-111111?style=flat-square&amp;logo=windows&amp;logoColor=0078D4" />
+      </p>
+      <p><b>Highlights:</b> targets desktop, media_kit, pacotes .deb/tar.gz, setup/portable Windows, updater e sync upstream via Actions.</p>
+      <p><a href="https://github.com/elias001011/Musify-Desktop-Port/releases">downloads</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🌧️ <a href="https://github.com/elias001011/Meteor-LandingPage">Meteor Landing Page</a></h3>
       <p>Landing page cinematográfica do Meteor, com storytelling, scroll pinning, galeria e dados climáticos reais do RS.</p>
       <p>
@@ -131,6 +157,8 @@ less noise, more product.
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
@@ -143,6 +171,7 @@ less noise, more product.
 ```txt
 frontend:    React, TypeScript, Vite, Tailwind
 backend:     Netlify Functions, Node.js, serverless APIs
+desktop:     Flutter, Dart, Linux/Windows packaging
 ai:          Gemini, provider fallbacks, prompt workflows
 product:     UX, landing pages, dashboards, deploys
 system:      Linux, Git, GitHub, shell
