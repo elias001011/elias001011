@@ -78,7 +78,7 @@ less noise, more product.
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌧️ <a href="https://github.com/elias001011/Meteor-LandingPage">Meteor Landing Page</a></h3>
+      <h3>🌧️ <a href="https://github.com/elias001011/Meteor/tree/LP">Meteor Landing Page</a></h3>
       <p>Landing page cinematográfica do Meteor, com storytelling, scroll pinning, galeria e dados climáticos reais do RS.</p>
       <p>
         <img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&amp;logo=greensock&amp;logoColor=88CE02" />
@@ -87,7 +87,7 @@ less noise, more product.
         <img src="https://img.shields.io/badge/Open--Meteo-111111?style=flat-square" />
       </p>
       <p><b>Highlights:</b> animações de scroll, cursor customizado, chuva em canvas, lightbox e narrativa visual.</p>
-      <p><a href="https://lp-meteor-ai.netlify.app">live</a></p>
+      <p><a href="https://lp--meteor-ai.netlify.app/">live</a></p>
     </td>
     <td width="50%">
       <h3>🎵 <a href="https://github.com/elias001011/sync-my-music">Sync My Music</a></h3>
