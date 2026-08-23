@@ -87,33 +87,33 @@ less noise, more product.
         <img src="https://img.shields.io/badge/Open--Meteo-111111?style=flat-square" />
       </p>
       <p><b>Highlights:</b> animações de scroll, cursor customizado, chuva em canvas, lightbox e narrativa visual.</p>
-      <p><a href="https://sobre-meteor-ai.netlify.app">live</a></p>
+      <p><a href="https://lp-meteor-ai.netlify.app">live</a></p>
     </td>
     <td width="50%">
-      <h3>🌙 <a href="https://github.com/elias001011/SonarCloud">SonarCloud</a></h3>
-      <p>Soundscape player minimalista para foco, relaxamento e sono usando faixas do SoundCloud.</p>
+      <h3>🎵 <a href="https://github.com/elias001011/sync-my-music">Sync My Music</a></h3>
+      <p>Central de música self-hosted: biblioteca canônica, sincronização de playlists entre serviços, recaps unificados e integrações com Musify e Sonora.</p>
       <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python&amp;logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" />
         <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" />
-        <img src="https://img.shields.io/badge/Capacitor-111111?style=flat-square&amp;logo=capacitor&amp;logoColor=119EFF" />
-        <img src="https://img.shields.io/badge/SoundCloud-111111?style=flat-square&amp;logo=soundcloud&amp;logoColor=FF5500" />
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" />
       </p>
-      <p><b>Highlights:</b> timer com fade out, temas, layout flexível, player persistente e suporte mobile.</p>
-      <p><a href="https://sonar-cloud.netlify.app">live</a></p>
+      <p><b>Highlights:</b> sync bidirecional N-way, matching por ISRC, recaps de escuta, bridge Musify/Sonora, backup versionado e dashboard LAN.</p>
+      <p><a href="https://github.com/elias001011/sync-my-music">repo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌦️ <a href="https://github.com/elias001011/Climova">Climova</a></h3>
-      <p>Dashboard de clima com glassmorphism, recomendações tipo “Mini IA”, fundos dinâmicos e funções serverless.</p>
+      <h3>☄️ <a href="https://github.com/elias001011/Meteor/tree/android">Meteor Flutter</a></h3>
+      <p>Aplicativo Android nativo do Meteor em Flutter: Home em cards, mapa, notícias, IA, tema AMOLED, push via FCM e cache local.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" />
-        <img src="https://img.shields.io/badge/OpenWeather-111111?style=flat-square" />
-        <img src="https://img.shields.io/badge/Unsplash-111111?style=flat-square&amp;logo=unsplash&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/Material%203-111111?style=flat-square&amp;logo=materialdesign&amp;logoColor=757575" />
+        <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&amp;logo=firebase&amp;logoColor=FFCA28" />
       </p>
-      <p><b>Highlights:</b> geocodificação, previsão de 5 dias, imagens por cidade/clima e API keys protegidas.</p>
-      <p><a href="https://climova.netlify.app">live</a></p>
+      <p><b>Highlights:</b> BFF compartilhado com a web, Auth anônimo, App Check, FCM, localização e-throttled, tema AMOLED preto real.</p>
+      <p><a href="https://github.com/elias001011/Meteor/releases">releases</a></p>
     </td>
     <td width="50%">
       <h3>🖥️ <a href="https://github.com/elias001011/elias001011.github.io">Portfolio</a></h3>
@@ -127,6 +127,21 @@ less noise, more product.
       <p><a href="https://elias001011.github.io">live</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎶 <a href="https://github.com/elias001011/youtube_music_explode_dart">youtube_music_explode_dart</a></h3>
+      <p>Client Dart minimalista para a API interna InnerTube do YouTube Music: perfis de artistas, discografia, top songs e busca — usado pelo Musify.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/YouTube%20Music-111111?style=flat-square&amp;logo=youtubemusic&amp;logoColor=FF0000" />
+        <img src="https://img.shields.io/badge/InnerTube-111111?style=flat-square" />
+      </p>
+      <p><b>Highlights:</b> browse e search via WEB_REMIX, matching por word-set, artist profile, discography e tracklist — sem scraping de HTML.</p>
+      <p><a href="https://github.com/elias001011/youtube_music_explode_dart">repo</a></p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 
 </details>
@@ -138,7 +153,7 @@ less noise, more product.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/portfolio-elias001011.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://elias001011.github.io)
-[![Connecta](https://img.shields.io/badge/connecta-digital-111111?style=for-the-badge&logo=netlify&logoColor=white)](https://connectadigital.netlify.app/)
+[![Connecta](https://img.shields.io/badge/connecta.br-digital-111111?style=for-the-badge&logo=netlify&logoColor=white)](https://connectabr.digital)
 [![GitHub](https://img.shields.io/badge/github-elias001011-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elias001011)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Elias%20Nunes-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-nunes-b695ba406)
 [![Instagram](https://img.shields.io/badge/instagram-@elias_jrnunes-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias_jrnunes)
