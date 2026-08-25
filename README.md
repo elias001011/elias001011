@@ -140,6 +140,16 @@ less noise, more product.
       <p><a href="https://github.com/elias001011/youtube_music_explode_dart">repo</a></p>
     </td>
     <td width="50%">
+      <h3>📖 <a href="https://github.com/elias001011/sepia-reader">Sépia</a></h3>
+      <p>Biblioteca, leitor e editor Markdown local-first em Flutter, feito para guardar textos e ler sem distrações na web ou no Android.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/Material%203-111111?style=flat-square&amp;logo=materialdesign&amp;logoColor=757575" />
+        <img src="https://img.shields.io/badge/Local--first-111111?style=flat-square" />
+      </p>
+      <p><b>Highlights:</b> renderização Markdown, syntax highlighting, modo leitura, edição com undo/redo, temas configuráveis, i18n e conteúdo salvo apenas no dispositivo.</p>
+      <p><a href="https://sepia-md.netlify.app">live</a> · <a href="https://github.com/elias001011/sepia-reader/releases">downloads</a></p>
     </td>
   </tr>
 </table>
