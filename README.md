@@ -13,7 +13,7 @@
 
 ---
 
-Co-founder of [Connecta](https://connectabr.digital) I build things that mix **interface**, **automation**, **AI** and **real product thinking**.
+Co-founder of [Connecta](https://connectabr.digital). I build things that mix **interface**, **automation**, **AI** and **real product thinking**.
 
 ```txt
 less noise, more product.
