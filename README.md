@@ -26,16 +26,42 @@ less noise, more product.
 <table>
   <tr>
     <td width="50%">
-      <h3>☄️ <a href="https://github.com/elias001011/Meteor">Meteor</a></h3>
-      <p>PWA de inteligência climática com previsão, alertas, mapas, temas dinâmicos e assistente com IA generativa contextual.</p>
+      <h3>🧘 <a href="https://github.com/elias001011/Zenify">Zenify</a></h3>
+      <p>Edição comunitária do Musify: interface redesenhada, desktop de primeira classe e sincronização entre Android, Linux e Windows.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" />
-        <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&amp;logo=vite&amp;logoColor=646CFF" />
-        <img src="https://img.shields.io/badge/Netlify%20Functions-111111?style=flat-square&amp;logo=netlify&amp;logoColor=00C7B7" />
+        <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/Android-111111?style=flat-square&amp;logo=android&amp;logoColor=3DDC84" />
+        <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/Windows-111111?style=flat-square&amp;logo=windows&amp;logoColor=0078D4" />
       </p>
-      <p><b>Highlights:</b> BFF serverless, Gemini, fallback de APIs meteorológicas, AQI, mapas e privacidade local-first.</p>
-      <p><a href="https://meteor-ai.netlify.app">live</a></p>
+      <p><b>Highlights:</b> dock e ilha flutuantes, Moods e Mix pessoal, letras sincronizadas, Local Sync entre dispositivos, backup e instaladores para Windows e Linux.</p>
+      <p><a href="https://github.com/elias001011/Zenify/releases/latest">downloads</a></p>
+    </td>
+    <td width="50%">
+      <h3>📖 <a href="https://github.com/elias001011/sepia-reader">Sépia</a></h3>
+      <p>Biblioteca, leitor e editor Markdown local-first em Flutter, feito para guardar textos e ler sem distrações na web ou no Android.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/Material%203-111111?style=flat-square&amp;logo=materialdesign&amp;logoColor=757575" />
+        <img src="https://img.shields.io/badge/Local--first-111111?style=flat-square" />
+      </p>
+      <p><b>Highlights:</b> renderização Markdown, syntax highlighting, modo leitura, edição com undo/redo, temas configuráveis, i18n e conteúdo salvo apenas no dispositivo.</p>
+      <p><a href="https://sepia-md.netlify.app">live</a> · <a href="https://github.com/elias001011/sepia-reader/releases">downloads</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎶 <a href="https://github.com/elias001011/youtube_music_explode_dart">youtube_music_explode_dart</a></h3>
+      <p>Client Dart minimalista para a API interna InnerTube do YouTube Music: perfis de artistas, discografia, top songs e busca — usado pelo Musify.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/YouTube%20Music-111111?style=flat-square&amp;logo=youtubemusic&amp;logoColor=FF0000" />
+        <img src="https://img.shields.io/badge/InnerTube-111111?style=flat-square" />
+      </p>
+      <p><b>Highlights:</b> browse e search via WEB_REMIX, matching por word-set, artist profile, discography e tracklist — sem scraping de HTML.</p>
+      <p><a href="https://github.com/elias001011/youtube_music_explode_dart">repo</a></p>
     </td>
     <td width="50%">
       <h3>🎓 <a href="https://github.com/elias001011/Apice">Ápice</a></h3>
@@ -52,6 +78,33 @@ less noise, more product.
   </tr>
   <tr>
     <td width="50%">
+      <h3>🎵 <a href="https://github.com/elias001011/Musify-Desktop-Port">Musify Desktop Port</a></h3>
+      <p><b>Descontinuado em dezembro de 2026.</b> Sucedido pelo <a href="https://github.com/elias001011/Zenify">Zenify</a>. Port desktop não oficial do <a href="https://github.com/gokadzev/Musify">Musify</a> para Windows e Linux; a release <code>10.6.0-2</code> é a última.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/Windows-111111?style=flat-square&amp;logo=windows&amp;logoColor=0078D4" />
+        <img src="https://img.shields.io/badge/status-descontinuado-999999?style=flat-square" />
+      </p>
+      <p><b>Highlights:</b> áudio via media_kit, pacotes .deb/tar.gz, setup e portable para Windows, updater próprio e Local Sync.</p>
+      <p><a href="https://github.com/elias001011/Musify-Desktop-Port/releases">downloads</a></p>
+    </td>
+    <td width="50%">
+      <h3>☄️ <a href="https://github.com/elias001011/Meteor">Meteor</a></h3>
+      <p>PWA de inteligência climática com previsão, alertas, mapas, temas dinâmicos e assistente com IA generativa contextual.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&amp;logo=vite&amp;logoColor=646CFF" />
+        <img src="https://img.shields.io/badge/Netlify%20Functions-111111?style=flat-square&amp;logo=netlify&amp;logoColor=00C7B7" />
+      </p>
+      <p><b>Highlights:</b> BFF serverless, Gemini, fallback de APIs meteorológicas, AQI, mapas e privacidade local-first.</p>
+      <p><a href="https://meteor-ai.netlify.app">live</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🧠 <a href="https://github.com/elias001011/my-computer">My Computer</a></h3>
       <p>Painel self-hosted para conversar com uma IA que usa tools locais, lê contexto salvo, executa terminal e integra múltiplos providers.</p>
       <p>
@@ -64,20 +117,6 @@ less noise, more product.
       <p><a href="https://github.com/elias001011/my-computer">repo</a></p>
     </td>
     <td width="50%">
-      <h3>🎵 <a href="https://github.com/elias001011/Musify-Desktop-Port">Musify Desktop Port</a></h3>
-      <p>Port/empacotamento desktop não oficial do <a href="https://github.com/gokadzev/Musify">Musify</a>. Meu trabalho aqui é adaptar e distribuir builds para Windows e Linux; o app original é mantido pelo upstream.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
-        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
-        <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" />
-        <img src="https://img.shields.io/badge/Windows-111111?style=flat-square&amp;logo=windows&amp;logoColor=0078D4" />
-      </p>
-      <p><b>Highlights:</b> contribuições ao upstream, targets desktop, media_kit, pacotes .deb/tar.gz, setup/portable Windows, updater e sync upstream via Actions.</p>
-      <p><a href="https://github.com/elias001011/Musify-Desktop-Port/releases">downloads</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3>🌧️ <a href="https://github.com/elias001011/Meteor/tree/LP">Meteor Landing Page</a></h3>
       <p>Landing page cinematográfica do Meteor, com storytelling, scroll pinning, galeria e dados climáticos reais do RS.</p>
       <p>
@@ -88,18 +127,6 @@ less noise, more product.
       </p>
       <p><b>Highlights:</b> animações de scroll, cursor customizado, chuva em canvas, lightbox e narrativa visual.</p>
       <p><a href="https://lp--meteor-ai.netlify.app/">live</a></p>
-    </td>
-    <td width="50%">
-      <h3>🎵 <a href="https://github.com/elias001011/sync-my-music">Sync My Music</a></h3>
-      <p>Central de música self-hosted: biblioteca canônica, sincronização de playlists entre serviços, recaps unificados e integrações com Musify e Sonora.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python&amp;logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" />
-        <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" />
-      </p>
-      <p><b>Highlights:</b> sync bidirecional N-way, matching por ISRC, recaps de escuta, bridge Musify/Sonora, backup versionado e dashboard LAN.</p>
-      <p><a href="https://github.com/elias001011/sync-my-music">repo</a></p>
     </td>
   </tr>
   <tr>
@@ -125,31 +152,6 @@ less noise, more product.
       </p>
       <p><b>Highlights:</b> Vite, React 19, TypeScript, paletas visuais e galeria de projetos.</p>
       <p><a href="https://elias001011.github.io">live</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎶 <a href="https://github.com/elias001011/youtube_music_explode_dart">youtube_music_explode_dart</a></h3>
-      <p>Client Dart minimalista para a API interna InnerTube do YouTube Music: perfis de artistas, discografia, top songs e busca — usado pelo Musify.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
-        <img src="https://img.shields.io/badge/YouTube%20Music-111111?style=flat-square&amp;logo=youtubemusic&amp;logoColor=FF0000" />
-        <img src="https://img.shields.io/badge/InnerTube-111111?style=flat-square" />
-      </p>
-      <p><b>Highlights:</b> browse e search via WEB_REMIX, matching por word-set, artist profile, discography e tracklist — sem scraping de HTML.</p>
-      <p><a href="https://github.com/elias001011/youtube_music_explode_dart">repo</a></p>
-    </td>
-    <td width="50%">
-      <h3>📖 <a href="https://github.com/elias001011/sepia-reader">Sépia</a></h3>
-      <p>Biblioteca, leitor e editor Markdown local-first em Flutter, feito para guardar textos e ler sem distrações na web ou no Android.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" />
-        <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" />
-        <img src="https://img.shields.io/badge/Material%203-111111?style=flat-square&amp;logo=materialdesign&amp;logoColor=757575" />
-        <img src="https://img.shields.io/badge/Local--first-111111?style=flat-square" />
-      </p>
-      <p><b>Highlights:</b> renderização Markdown, syntax highlighting, modo leitura, edição com undo/redo, temas configuráveis, i18n e conteúdo salvo apenas no dispositivo.</p>
-      <p><a href="https://sepia-md.netlify.app">live</a> · <a href="https://github.com/elias001011/sepia-reader/releases">downloads</a></p>
     </td>
   </tr>
 </table>
