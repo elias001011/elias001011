@@ -134,9 +134,6 @@ system:      Linux, Git, GitHub, shell
 
 <img src="https://streak-stats.demolab.com?user=elias001011&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
 
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=elias001011&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=4" alt="GitHub trophies" />
 
 <br /><br />
 
