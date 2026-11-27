@@ -18,16 +18,7 @@
 
 ---
 
-I'm a developer and co-founder at [Connecta BR Digital](https://connectabr.digital), where I build web apps, interfaces and product experiments. I maintain [Zenify](https://github.com/elias001011/Zenify), a calm, open-source music player for Android, Linux and Windows, and I contribute to [Musify](https://github.com/gokadzev/Musify).
-
-I like software that feels quiet, local-first and genuinely useful — and I care about the last 10% that makes it feel finished.
-
-### What I'm doing now
-
-- **Zenify** — shipping Android, Linux and Windows releases with Local Sync, synced lyrics and offline mode.
-- **This portfolio** — rebuilt as an interactive room with five palettes, three languages, a Zenify case, project galleries and a live GitHub calendar.
-- **Connecta** — client web apps and interfaces, including [Imobiliária Conceito](https://imob.connectabr.digital), a scroll-driven 3D real-estate experience.
-- **Open source** — 70+ merged PRs in Musify, including [Local Sync (#1005)](https://github.com/gokadzev/Musify/pull/1005).
+Developer and co-founder at [Connecta BR Digital](https://connectabr.digital). I maintain [Zenify](https://github.com/elias001011/Zenify) and contribute to [Musify](https://github.com/gokadzev/Musify).
 
 ### Selected work
 
@@ -35,7 +26,7 @@ I like software that feels quiet, local-first and genuinely useful — and I car
   <tr>
     <td width="50%" valign="top">
       <h3>🎧 <a href="https://github.com/elias001011/Zenify">Zenify</a></h3>
-      <p>A calm, modern music app: the community edition of Musify, with a redesigned interface, first-class desktop support and Local Sync between Android, Linux and Windows.</p>
+      <p>Open-source music player for Android, Linux and Windows, with Local Sync and synced lyrics.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" alt="Flutter" />
         <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" alt="Dart" />
@@ -47,7 +38,7 @@ I like software that feels quiet, local-first and genuinely useful — and I car
     </td>
     <td width="50%" valign="top">
       <h3>📖 <a href="https://github.com/elias001011/sepia-reader">Sépia</a></h3>
-      <p>Local-first Markdown library, reader and editor built with Flutter. Keeps your texts on the device and gets out of the way.</p>
+      <p>Local-first Markdown reader and editor built with Flutter.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&amp;logo=flutter&amp;logoColor=02569B" alt="Flutter" />
         <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" alt="Dart" />
@@ -60,7 +51,7 @@ I like software that feels quiet, local-first and genuinely useful — and I car
   <tr>
     <td width="50%" valign="top">
       <h3>🎶 <a href="https://github.com/elias001011/youtube_music_explode_dart">youtube_music_explode_dart</a></h3>
-      <p>Minimal Dart client for YouTube Music's InnerTube WEB_REMIX API: artist profiles, discography, top songs and search. Used in production by Musify.</p>
+      <p>Dart client for YouTube Music's InnerTube API, used by Musify.</p>
       <p>
         <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&amp;logo=dart&amp;logoColor=0175C2" alt="Dart" />
         <img src="https://img.shields.io/badge/YouTube%20Music-111111?style=flat-square&amp;logo=youtubemusic&amp;logoColor=FF0000" alt="YouTube Music" />
@@ -70,7 +61,7 @@ I like software that feels quiet, local-first and genuinely useful — and I car
     </td>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/elias001011/Apice">Ápice</a></h3>
-      <p>AI study platform for ENEM: essay feedback, a tutor, mock exams, radar, achievements and history.</p>
+      <p>AI study platform for ENEM: essay feedback, tutor and mock exams.</p>
       <p>
         <img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&amp;logo=vite&amp;logoColor=646CFF" alt="Vite" />
@@ -82,13 +73,9 @@ I like software that feels quiet, local-first and genuinely useful — and I car
   </tr>
 </table>
 
-### This site
-
-The room above is [elias001011.github.io](https://elias001011.github.io), built with React 19, TypeScript and Vite. It combines an interactive room, five palettes, three languages, a dedicated Zenify case, project galleries and a GitHub contributions calendar. [Source](https://github.com/elias001011/elias001011.github.io).
-
 ### Open source
 
-I contribute to [Musify](https://github.com/gokadzev/Musify), the open-source Android music player Zenify is based on: **70+ merged PRs**, including [Local Sync (#1005)](https://github.com/gokadzev/Musify/pull/1005), now part of the original project. [See all my merged PRs →](https://github.com/gokadzev/Musify/pulls?q=is%3Apr+author%3Aelias001011+is%3Amerged).
+**70+ merged PRs** in [Musify](https://github.com/gokadzev/Musify), including [Local Sync (#1005)](https://github.com/gokadzev/Musify/pull/1005). [See all →](https://github.com/gokadzev/Musify/pulls?q=is%3Apr+author%3Aelias001011+is%3Amerged)
 
 <details>
   <summary><b>Toolbox</b></summary>
@@ -102,7 +89,6 @@ I contribute to [Musify](https://github.com/gokadzev/Musify), the open-source An
 ![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -110,13 +96,10 @@ I contribute to [Musify](https://github.com/gokadzev/Musify), the open-source An
 </div>
 
 ```txt
-frontend:    React, TypeScript, Vite, Tailwind
-mobile:      Flutter, Dart, Android
-desktop:     Flutter, Dart, Linux/Windows packaging
-interaction: scroll-driven UI, canvas, Three.js
-backend:     Netlify Functions, Node.js, serverless APIs
-ai:          Gemini, provider fallbacks, prompt workflows
-system:      Linux, Git, GitHub, shell
+frontend: React, TypeScript, Vite
+mobile:   Flutter, Dart
+desktop:  Flutter, Linux/Windows
+backend:  Netlify Functions, Node.js
 ```
 
 </details>
@@ -134,7 +117,6 @@ system:      Linux, Git, GitHub, shell
 
 <img src="https://streak-stats.demolab.com?user=elias001011&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
 
-
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=elias001011&amp;theme=tokyo-night&amp;hide_border=true&amp;custom_title=Elias%20Nunes%27%20GitHub%20Activity" alt="Recent GitHub activity" />
@@ -146,5 +128,5 @@ system:      Linux, Git, GitHub, shell
 ---
 
 <div align="center">
-  <sub>less noise, more product. built with care, shipped while learning.</sub>
+  <sub>less noise, more product.</sub>
 </div>
